@@ -1,23 +1,9 @@
 <div align="center">
 
-<!-- Banner SVG -->
-<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#512BD4;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#A178DF;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="200" fill="url(#grad1)"/>
-  <text x="50%" y="50%" font-family="'Segoe UI', Arial, sans-serif" font-size="48" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">
-    🚀 C# & .NET Mastery
-  </text>
-  <text x="50%" y="75%" font-family="'Segoe UI', Arial, sans-serif" font-size="20" fill="#E0E0E0" text-anchor="middle" dominant-baseline="middle">
-    Complete Guide from Basics to Advanced
-  </text>
-</svg>
+<!-- Banner -->
+<img src="./images/banner.svg" alt="C# & .NET Mastery Banner" width="100%"/>
 
-<br/>
+<br/><br/>
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -471,7 +457,7 @@ Track your progress as you go:
 
 ### 🎉 Happy Learning! 🎉
 
-**Made with ❤️ by [Zainulabdeen](https://github.com/ZainulabdeenOfficial)**
+**Made with ❤️ by [M Zain Ul Abideen](https://github.com/ZainulabdeenOfficial)**
 
 ⭐️ **Don't forget to star this repository!** ⭐️
 
