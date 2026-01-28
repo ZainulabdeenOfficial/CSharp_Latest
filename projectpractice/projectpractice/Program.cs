@@ -31,11 +31,23 @@ namespace projectpractice
         static void Main(string[] args)
         {
             
-            Program obj = new Program();
-            int num1, num2;
-            obj.userinput(out num1,out num2);
-            obj.sum(num1, num2);
-            obj.sub(num1, num2);
+            //Program obj = new Program();
+            //int num1, num2;
+            //obj.userinput(out num1,out num2);
+            //obj.sum(num1, num2);
+            //obj.sub(num1, num2);
+
+            //Sudentinfo studentdata = new Sudentinfo();
+            //studentdata.accept(Guid.NewGuid(),"zain",26);
+            //studentdata.display();
+
+            Console.WriteLine(StaticMethod.name);
+            StaticMethod.fun();
+            InstanceExample instanceExample = new InstanceExample();
+           Console.WriteLine(instanceExample.age);
+            instanceExample.fun1();
+
+
         }
     }
 }
