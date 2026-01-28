@@ -47,6 +47,33 @@ namespace projectpractice
            Console.WriteLine(instanceExample.age);
             instanceExample.fun1();
 
+            Studentclass[]  obj = new Studentclass[5];
+            for (int i = 0; i< obj.Length;i++)
+            {
+                obj[i] = new Studentclass();
+                Console.WriteLine("Enter Rollno:");
+                int rollno = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Enter Fee:");
+                int fee = Convert.ToInt32(Console.ReadLine());
+                obj[i].accept(rollno, fee);
+
+            }
+            int max = 0;
+            int maxstudentfee = 0;
+            for (int i = 0; i < obj.Length; i++)
+            {
+                if (max < obj[i].fee)
+                {
+                    max = obj[i].fee;
+                    maxstudentfee = i;
+                }
+
+            }
+
+            Console.WriteLine("Student with max fee:{0}",max);
+
+            obj[maxstudentfee].display();
+
 
         }
     }
