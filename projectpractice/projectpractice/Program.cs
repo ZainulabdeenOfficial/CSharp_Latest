@@ -30,7 +30,7 @@ namespace projectpractice
 
         static void Main(string[] args)
         {
-            
+
             //Program obj = new Program();
             //int num1, num2;
             //obj.userinput(out num1,out num2);
@@ -41,38 +41,47 @@ namespace projectpractice
             //studentdata.accept(Guid.NewGuid(),"zain",26);
             //studentdata.display();
 
-            Console.WriteLine(StaticMethod.name);
-            StaticMethod.fun();
-            InstanceExample instanceExample = new InstanceExample();
-           Console.WriteLine(instanceExample.age);
-            instanceExample.fun1();
+            // Console.WriteLine(StaticMethod.name);
+            // StaticMethod.fun();
+            // InstanceExample instanceExample = new InstanceExample();
+            //Console.WriteLine(instanceExample.age);
+            // instanceExample.fun1();
 
-            Studentclass[]  obj = new Studentclass[5];
-            for (int i = 0; i< obj.Length;i++)
-            {
-                obj[i] = new Studentclass();
-                Console.WriteLine("Enter Rollno:");
-                int rollno = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Enter Fee:");
-                int fee = Convert.ToInt32(Console.ReadLine());
-                obj[i].accept(rollno, fee);
+            // Studentclass[]  obj = new Studentclass[5];
+            // for (int i = 0; i< obj.Length;i++)
+            // {
+            //     obj[i] = new Studentclass();
+            //     Console.WriteLine("Enter Rollno:");
+            //     int rollno = Convert.ToInt32(Console.ReadLine());
+            //     Console.WriteLine("Enter Fee:");
+            //     int fee = Convert.ToInt32(Console.ReadLine());
+            //     obj[i].accept(rollno, fee);
 
-            }
-            int max = 0;
-            int maxstudentfee = 0;
-            for (int i = 0; i < obj.Length; i++)
-            {
-                if (max < obj[i].fee)
-                {
-                    max = obj[i].fee;
-                    maxstudentfee = i;
-                }
+            // }
+            // int max = 0;
+            // int maxstudentfee = 0;
+            // for (int i = 0; i < obj.Length; i++)
+            // {
+            //     if (max < obj[i].fee)
+            //     {
+            //         max = obj[i].fee;
+            //         maxstudentfee = i;
+            //     }
 
-            }
+            // }
 
-            Console.WriteLine("Student with max fee:{0}",max);
+            // Console.WriteLine("Student with max fee:{0}",max);
 
-            obj[maxstudentfee].display();
+            // obj[maxstudentfee].display();
+
+            // by deafult for static and deafult constructor is present
+            ConstructorClass constructorClass = new ConstructorClass();
+            // parameterized  constructor call
+            ConstructorClass constructorClass1 = new ConstructorClass("Paramterizzed Constructor");
+
+            // Copy Constructor call
+            ConstructorClass constructorClass2 = new ConstructorClass(22);
+            ConstructorClass constructorClass3 = new ConstructorClass(constructorClass2);
 
 
         }
