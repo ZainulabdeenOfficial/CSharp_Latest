@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\gettersetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|solutionrelative:projectpractice\\gettersetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|solutionrelative:projectpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,24 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConstructorClass.cs",
-              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\ConstructorClass.cs",
-              "RelativeDocumentMoniker": "projectpractice\\ConstructorClass.cs",
-              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\ConstructorClass.cs",
-              "RelativeToolTip": "projectpractice\\ConstructorClass.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAmwCMAAAA5AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "GetterSetter.cs",
+              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\GetterSetter.cs",
+              "RelativeDocumentMoniker": "projectpractice\\GetterSetter.cs",
+              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\GetterSetter.cs",
+              "RelativeToolTip": "projectpractice\\GetterSetter.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAkAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T16:01:47.495Z",
+              "WhenOpened": "2026-01-29T17:30:08.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "StaticMethod.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\StaticMethod.cs",
               "RelativeDocumentMoniker": "projectpractice\\StaticMethod.cs",
@@ -67,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Sudentinfo.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Sudentinfo.cs",
               "RelativeDocumentMoniker": "projectpractice\\Sudentinfo.cs",
@@ -79,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "projectpractice.csproj",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\projectpractice.csproj",
               "RelativeDocumentMoniker": "projectpractice\\projectpractice.csproj",
@@ -91,13 +95,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Program.cs",
               "RelativeDocumentMoniker": "projectpractice\\Program.cs",
               "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Program.cs",
               "RelativeToolTip": "projectpractice\\Program.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFMAAABZAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAFcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T16:34:43.751Z",
               "EditorCaption": ""
@@ -105,6 +109,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ConstructorClass.cs",
+              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\ConstructorClass.cs",
+              "RelativeDocumentMoniker": "projectpractice\\ConstructorClass.cs",
+              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\ConstructorClass.cs",
+              "RelativeToolTip": "projectpractice\\ConstructorClass.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T16:01:47.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Studentclass.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Studentclass.cs",
               "RelativeDocumentMoniker": "projectpractice\\Studentclass.cs",
@@ -116,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "InstanceExample.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\InstanceExample.cs",
               "RelativeDocumentMoniker": "projectpractice\\InstanceExample.cs",

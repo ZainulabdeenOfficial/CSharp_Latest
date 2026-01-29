@@ -83,6 +83,15 @@ namespace projectpractice
             ConstructorClass constructorClass2 = new ConstructorClass(22);
             ConstructorClass constructorClass3 = new ConstructorClass(constructorClass2);
 
+            // Gettetr and Setter method call
+
+            // Getter always and setter optional 
+
+            GetterSetter getterSetter = new GetterSetter();
+            getterSetter.Id = 101;
+
+            Console.WriteLine("ID:" + getterSetter.Id);
+
 
         }
     }
