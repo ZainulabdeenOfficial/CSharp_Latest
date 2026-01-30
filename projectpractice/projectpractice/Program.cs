@@ -92,6 +92,12 @@ namespace projectpractice
 
             Console.WriteLine("ID:" + getterSetter.Id);
 
+            // override method call
+
+            OverloadingExample obj = new OverloadingExample();
+            obj.add(10, 20);
+            obj.add(10, 20, 30);
+
 
         }
     }
