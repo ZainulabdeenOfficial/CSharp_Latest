@@ -75,28 +75,45 @@ namespace projectpractice
             // obj[maxstudentfee].display();
 
             // by deafult for static and deafult constructor is present
-            ConstructorClass constructorClass = new ConstructorClass();
+            //ConstructorClass constructorClass = new ConstructorClass();
             // parameterized  constructor call
-            ConstructorClass constructorClass1 = new ConstructorClass("Paramterizzed Constructor");
+            //ConstructorClass constructorClass1 = new ConstructorClass("Paramterizzed Constructor");
 
             // Copy Constructor call
-            ConstructorClass constructorClass2 = new ConstructorClass(22);
-            ConstructorClass constructorClass3 = new ConstructorClass(constructorClass2);
+            //ConstructorClass constructorClass2 = new ConstructorClass(22);
+            //ConstructorClass constructorClass3 = new ConstructorClass(constructorClass2);
 
             // Gettetr and Setter method call
 
             // Getter always and setter optional 
 
-            GetterSetter getterSetter = new GetterSetter();
-            getterSetter.Id = 101;
+            //GetterSetter getterSetter = new GetterSetter();
+            //getterSetter.Id = 101;
 
-            Console.WriteLine("ID:" + getterSetter.Id);
+            //Console.WriteLine("ID:" + getterSetter.Id);
 
             // override method call
 
-            OverloadingExample obj = new OverloadingExample();
-            obj.add(10, 20);
-            obj.add(10, 20, 30);
+            //OverloadingExample obj = new OverloadingExample();
+            //obj.add(10, 20);
+            //obj.add(10, 20, 30);
+
+            InhertitenceChidlClass inhertitenceChidlClass = new InhertitenceChidlClass();
+            // parents menthod call through child class
+            inhertitenceChidlClass.display();
+            // child method call
+            inhertitenceChidlClass.displaychild();
+
+            // inhertience Example 
+            EmployeeClassInhertience obj = new EmployeeClassInhertience();
+           
+            obj.adminmethod(Guid.NewGuid(), "Admin Name");
+            obj.managermethod(500);
+            obj.employeemethod(2000);
+            obj.DisplayAdmin();
+            obj.DisplayManager();
+            obj.DisplayEmployee();
+
 
 
         }
