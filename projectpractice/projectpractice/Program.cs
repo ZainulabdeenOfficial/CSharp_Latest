@@ -114,6 +114,29 @@ namespace projectpractice
             obj.DisplayManager();
             obj.DisplayEmployee();
 
+            // abstact class example call
+            // refernce abstarct class always and object used chaild class
+
+            AbstractClassExample example = new AbstractChaildlArea();
+            example.Accept(10, 20);
+            example.ractangle();
+            example.Display();
+
+            AbstractClassExample example1 = new AbstractChaildlArea();
+            example1.Accept(10, 20);
+            example.traiangle();
+            example.Display();
+
+            // Acces Specifier Example call
+            AccessSpecifer accesSpecifierExample = new AccessSpecifer();
+
+            accesSpecifierExample.fun1();
+            accesSpecifierExample.fun4();
+            accesSpecifierExample.fun5();
+
+
+
+
 
 
         }

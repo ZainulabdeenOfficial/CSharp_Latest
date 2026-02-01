@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D7784F38-FD36-4056-8E47-AC7D8C915315}|practiceproject2\\practiceproject2.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\practiceproject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7784F38-FD36-4056-8E47-AC7D8C915315}|practiceproject2\\practiceproject2.csproj|solutionrelative:practiceproject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7784F38-FD36-4056-8E47-AC7D8C915315}|practiceproject2\\practiceproject2.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\practiceproject2\\practiceproject2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7784F38-FD36-4056-8E47-AC7D8C915315}|practiceproject2\\practiceproject2.csproj|solutionrelative:practiceproject2\\practiceproject2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\accessspecifer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|solutionrelative:projectpractice\\accessspecifer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|solutionrelative:projectpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\projectpractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|solutionrelative:projectpractice\\projectpractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\abstractchaildlarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|solutionrelative:projectpractice\\abstractchaildlarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\adminclassinhertience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|solutionrelative:projectpractice\\adminclassinhertience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\abstractclassexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|solutionrelative:projectpractice\\abstractclassexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,24 +47,12 @@
       "RelativeMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|solutionrelative:projectpractice\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\projectpractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|solutionrelative:projectpractice\\projectpractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|solutionrelative:projectpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\employeeclassinhertience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|solutionrelative:projectpractice\\employeeclassinhertience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\managerclassinhertence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|solutionrelative:projectpractice\\managerclassinhertence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\adminclassinhertience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|solutionrelative:projectpractice\\adminclassinhertience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\inhertitencechidlclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,93 +98,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AbstractClassExample.cs",
-              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\AbstractClassExample.cs",
-              "RelativeDocumentMoniker": "projectpractice\\AbstractClassExample.cs",
-              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\AbstractClassExample.cs",
-              "RelativeToolTip": "projectpractice\\AbstractClassExample.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T18:18:36.597Z",
+              "DocumentIndex": 1,
+              "Title": "practiceproject2",
+              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\practiceproject2\\practiceproject2.csproj",
+              "RelativeDocumentMoniker": "practiceproject2\\practiceproject2.csproj",
+              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\practiceproject2\\practiceproject2.csproj",
+              "RelativeToolTip": "practiceproject2\\practiceproject2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-01T18:58:35.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Rectangle.cs",
-              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Rectangle.cs",
-              "RelativeDocumentMoniker": "projectpractice\\Rectangle.cs",
-              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Rectangle.cs",
-              "RelativeToolTip": "projectpractice\\Rectangle.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwBMAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\practiceproject2\\Program.cs",
+              "RelativeDocumentMoniker": "practiceproject2\\Program.cs",
+              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\practiceproject2\\Program.cs",
+              "RelativeToolTip": "practiceproject2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T17:50:48.435Z",
+              "WhenOpened": "2026-02-01T18:56:53.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TriangaleClass.cs",
-              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\TriangaleClass.cs",
-              "RelativeDocumentMoniker": "projectpractice\\TriangaleClass.cs",
-              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\TriangaleClass.cs",
-              "RelativeToolTip": "projectpractice\\TriangaleClass.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBYAAAAJAAAAAAAAAA==",
+              "Title": "AccessSpecifer.cs",
+              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\AccessSpecifer.cs",
+              "RelativeDocumentMoniker": "projectpractice\\AccessSpecifer.cs",
+              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\AccessSpecifer.cs",
+              "RelativeToolTip": "projectpractice\\AccessSpecifer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwAYAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T17:45:54.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Circle.cs",
-              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Circle.cs",
-              "RelativeDocumentMoniker": "projectpractice\\Circle.cs",
-              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Circle.cs",
-              "RelativeToolTip": "projectpractice\\Circle.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAgwAkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T17:43:36.206Z"
+              "WhenOpened": "2026-02-01T18:46:58.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "AbstractChaildlArea.cs",
+              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\AbstractChaildlArea.cs",
+              "RelativeDocumentMoniker": "projectpractice\\AbstractChaildlArea.cs",
+              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\AbstractChaildlArea.cs",
+              "RelativeToolTip": "projectpractice\\AbstractChaildlArea.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T18:29:55.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminClassInhertience.cs",
+              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\AdminClassInhertience.cs",
+              "RelativeDocumentMoniker": "projectpractice\\AdminClassInhertience.cs",
+              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\AdminClassInhertience.cs",
+              "RelativeToolTip": "projectpractice\\AdminClassInhertience.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T16:54:17.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Program.cs",
               "RelativeDocumentMoniker": "projectpractice\\Program.cs",
               "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Program.cs",
               "RelativeToolTip": "projectpractice\\Program.cs",
-              "ViewState": "AgIAAHkAAAAAAAAAAAAAAHIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAuwIcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T16:34:43.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ManagerClassInhertence.cs",
-              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\ManagerClassInhertence.cs",
-              "RelativeDocumentMoniker": "projectpractice\\ManagerClassInhertence.cs",
-              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\ManagerClassInhertence.cs",
-              "RelativeToolTip": "projectpractice\\ManagerClassInhertence.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBMAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T16:54:35.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmployeeClassInhertience.cs",
-              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\EmployeeClassInhertience.cs",
-              "RelativeDocumentMoniker": "projectpractice\\EmployeeClassInhertience.cs",
-              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\EmployeeClassInhertience.cs",
-              "RelativeToolTip": "projectpractice\\EmployeeClassInhertience.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAgwAoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T16:54:52.425Z"
+              "WhenOpened": "2026-01-27T16:34:43.751Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -180,23 +188,85 @@
               "RelativeToolTip": "projectpractice\\projectpractice.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-27T16:36:51.028Z"
+              "WhenOpened": "2026-01-27T16:36:51.028Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AdminClassInhertience.cs",
-              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\AdminClassInhertience.cs",
-              "RelativeDocumentMoniker": "projectpractice\\AdminClassInhertience.cs",
-              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\AdminClassInhertience.cs",
-              "RelativeToolTip": "projectpractice\\AdminClassInhertience.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAuwBgAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "AbstractClassExample.cs",
+              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\AbstractClassExample.cs",
+              "RelativeDocumentMoniker": "projectpractice\\AbstractClassExample.cs",
+              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\AbstractClassExample.cs",
+              "RelativeToolTip": "projectpractice\\AbstractClassExample.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T16:54:17.712Z"
+              "WhenOpened": "2026-02-01T18:18:36.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Circle.cs",
+              "RelativeDocumentMoniker": "projectpractice\\Circle.cs",
+              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Circle.cs",
+              "RelativeToolTip": "projectpractice\\Circle.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:43:36.206Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "TriangaleClass.cs",
+              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\TriangaleClass.cs",
+              "RelativeDocumentMoniker": "projectpractice\\TriangaleClass.cs",
+              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\TriangaleClass.cs",
+              "RelativeToolTip": "projectpractice\\TriangaleClass.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:45:54.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Rectangle.cs",
+              "RelativeDocumentMoniker": "projectpractice\\Rectangle.cs",
+              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Rectangle.cs",
+              "RelativeToolTip": "projectpractice\\Rectangle.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:50:48.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManagerClassInhertence.cs",
+              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\ManagerClassInhertence.cs",
+              "RelativeDocumentMoniker": "projectpractice\\ManagerClassInhertence.cs",
+              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\ManagerClassInhertence.cs",
+              "RelativeToolTip": "projectpractice\\ManagerClassInhertence.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T16:54:35.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeClassInhertience.cs",
+              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\EmployeeClassInhertience.cs",
+              "RelativeDocumentMoniker": "projectpractice\\EmployeeClassInhertience.cs",
+              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\EmployeeClassInhertience.cs",
+              "RelativeToolTip": "projectpractice\\EmployeeClassInhertience.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T16:54:52.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "InhertitenceChidlClass.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\InhertitenceChidlClass.cs",
               "RelativeDocumentMoniker": "projectpractice\\InhertitenceChidlClass.cs",
@@ -208,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "InstanceExample.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\InstanceExample.cs",
               "RelativeDocumentMoniker": "projectpractice\\InstanceExample.cs",
@@ -220,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "InhertienceExample.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\InhertienceExample.cs",
               "RelativeDocumentMoniker": "projectpractice\\InhertienceExample.cs",
@@ -232,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "StaticMethod.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\StaticMethod.cs",
               "RelativeDocumentMoniker": "projectpractice\\StaticMethod.cs",
@@ -244,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Sudentinfo.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Sudentinfo.cs",
               "RelativeDocumentMoniker": "projectpractice\\Sudentinfo.cs",
@@ -256,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "OverloadingExample.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\OverloadingExample.cs",
               "RelativeDocumentMoniker": "projectpractice\\OverloadingExample.cs",
@@ -268,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "GetterSetter.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\GetterSetter.cs",
               "RelativeDocumentMoniker": "projectpractice\\GetterSetter.cs",
@@ -280,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "ConstructorClass.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\ConstructorClass.cs",
               "RelativeDocumentMoniker": "projectpractice\\ConstructorClass.cs",
@@ -292,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Studentclass.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Studentclass.cs",
               "RelativeDocumentMoniker": "projectpractice\\Studentclass.cs",
