@@ -141,6 +141,11 @@ namespace projectpractice
             InterfaecExample obj1 = new InterfaecImplementClass();
             obj1.fun1();
 
+            // Override funcation call
+
+            OverridingExample overriding = new Overridingimplemetationclass();
+            overriding.calculatebill(5000);
+
 
 
 
