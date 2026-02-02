@@ -135,6 +135,13 @@ namespace projectpractice
             accesSpecifierExample.fun5();
 
 
+            // Interface Example call
+            // interface refernce and object used implemet class
+
+            InterfaecExample obj1 = new InterfaecImplementClass();
+            obj1.fun1();
+
+
 
 
 
