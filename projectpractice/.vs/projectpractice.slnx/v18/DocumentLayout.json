@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\overridingimplemetationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|solutionrelative:projectpractice\\overridingimplemetationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|solutionrelative:projectpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\overridingimplemetationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|solutionrelative:projectpractice\\overridingimplemetationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\overridingexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -118,17 +118,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Program.cs",
               "RelativeDocumentMoniker": "projectpractice\\Program.cs",
               "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Program.cs",
               "RelativeToolTip": "projectpractice\\Program.cs",
-              "ViewState": "AgIAAIsAAAAAAAAAAAAuwJIAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAAKIAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T16:34:43.751Z",
               "EditorCaption": ""
@@ -143,8 +143,7 @@
               "RelativeToolTip": "projectpractice\\Sudentinfo.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T15:37:10.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T15:37:10.947Z"
             },
             {
               "$type": "Document",
@@ -156,12 +155,11 @@
               "RelativeToolTip": "projectpractice\\TriangaleClass.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAuwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T17:45:54.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T17:45:54.293Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Overridingimplemetationclass.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Overridingimplemetationclass.cs",
               "RelativeDocumentMoniker": "projectpractice\\Overridingimplemetationclass.cs",
@@ -182,8 +180,7 @@
               "RelativeToolTip": "projectpractice\\OverridingExample.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T17:07:07.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T17:07:07.566Z"
             },
             {
               "$type": "Document",
@@ -195,8 +192,7 @@
               "RelativeToolTip": "projectpractice\\Studentclass.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T16:38:00.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T16:38:00.11Z"
             },
             {
               "$type": "Document",
@@ -208,8 +204,7 @@
               "RelativeToolTip": "projectpractice\\StaticMethod.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T16:00:14.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T16:00:14.169Z"
             },
             {
               "$type": "Document",
@@ -221,8 +216,7 @@
               "RelativeToolTip": "projectpractice\\Rectangle.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAwwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T17:50:48.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T17:50:48.435Z"
             },
             {
               "$type": "Document",
@@ -234,8 +228,7 @@
               "RelativeToolTip": "projectpractice\\EmployeeClassInhertience.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAgwAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T16:54:52.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T16:54:52.425Z"
             },
             {
               "$type": "Document",
@@ -247,8 +240,7 @@
               "RelativeToolTip": "projectpractice\\ConstructorClass.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAmwCMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T16:01:47.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T16:01:47.495Z"
             },
             {
               "$type": "Document",
@@ -260,8 +252,7 @@
               "RelativeToolTip": "projectpractice\\GetterSetter.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAuwAkAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T17:30:08.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T17:30:08.402Z"
             },
             {
               "$type": "Document",
@@ -273,8 +264,7 @@
               "RelativeToolTip": "projectpractice\\InhertienceExample.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwAwAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T16:15:30.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T16:15:30.707Z"
             },
             {
               "$type": "Document",
@@ -286,8 +276,7 @@
               "RelativeToolTip": "projectpractice\\InhertitenceChidlClass.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T16:19:01.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T16:19:01.046Z"
             },
             {
               "$type": "Document",
@@ -299,8 +288,7 @@
               "RelativeToolTip": "projectpractice\\InstanceExample.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T16:07:20.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T16:07:20.089Z"
             },
             {
               "$type": "Document",
@@ -312,8 +300,7 @@
               "RelativeToolTip": "projectpractice\\InterfaecExample.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T16:28:11.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T16:28:11.539Z"
             },
             {
               "$type": "Document",
@@ -325,8 +312,7 @@
               "RelativeToolTip": "projectpractice\\InterfaecImplementClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T16:31:51.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T16:31:51.66Z"
             },
             {
               "$type": "Document",
@@ -338,8 +324,7 @@
               "RelativeToolTip": "projectpractice\\ManagerClassInhertence.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAuwBMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T16:54:35.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-31T16:54:35.908Z"
             },
             {
               "$type": "Document",
@@ -351,8 +336,7 @@
               "RelativeToolTip": "projectpractice\\OverloadingExample.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAgwAgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T16:07:34.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T16:07:34.031Z"
             },
             {
               "$type": "Document",
@@ -376,8 +360,7 @@
               "RelativeToolTip": "projectpractice\\projectpractice.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-27T16:36:51.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T16:36:51.028Z"
             },
             {
               "$type": "Document",

@@ -147,6 +147,53 @@ namespace projectpractice
             overriding.calculatebill(5000);
 
 
+            // Exception Handling Example 
+            // throw is used call expection mannully
+            // always used inside try
+
+            int num;
+            try
+            {
+                int a, b, c;
+                Console.WriteLine("Enter first number");
+                num = Convert.ToInt32(Console.ReadLine());
+
+                if (num<0)
+                {
+                    throw new Exception("Negative number not allowed");
+                }
+
+                Console.WriteLine("Enter first number");
+                a = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Enter second number");
+                b = Convert.ToInt32(Console.ReadLine());
+                c = a / b;
+                Console.WriteLine("Result:" + c);
+
+            }
+
+            // try alway one but we can used it multiple catch block
+            catch (DivideByZeroException ex)
+            {
+                Console.WriteLine("Error: Cannot divide by zero."+ex.Message.ToString());
+            }
+            catch (FormatException ex)
+            {
+                Console.WriteLine("Error: Invalid input format."+ex.Message.ToString());
+            }
+
+            catch (Exception ex) { 
+            
+            Console.WriteLine("Error:"+ex.Message.ToString());
+
+            }
+            // finaly always execute
+           finally
+            {
+                Console.WriteLine("Execution completed.");
+            }
+
+        
 
 
 
