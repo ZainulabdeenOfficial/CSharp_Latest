@@ -151,57 +151,65 @@ namespace projectpractice
             // throw is used call expection mannully
             // always used inside try
 
-           // int num;
-           // try
-           // {
-           //     int a, b, c;
-           //     Console.WriteLine("Enter first number");
-           //     num = Convert.ToInt32(Console.ReadLine());
+            // int num;
+            // try
+            // {
+            //     int a, b, c;
+            //     Console.WriteLine("Enter first number");
+            //     num = Convert.ToInt32(Console.ReadLine());
 
-           //     if (num<0)
-           //     {
-           //         throw new Exception("Negative number not allowed");
-           //     }
+            //     if (num<0)
+            //     {
+            //         throw new Exception("Negative number not allowed");
+            //     }
 
-           //     Console.WriteLine("Enter first number");
-           //     a = Convert.ToInt32(Console.ReadLine());
-           //     Console.WriteLine("Enter second number");
-           //     b = Convert.ToInt32(Console.ReadLine());
-           //     c = a / b;
-           //     Console.WriteLine("Result:" + c);
+            //     Console.WriteLine("Enter first number");
+            //     a = Convert.ToInt32(Console.ReadLine());
+            //     Console.WriteLine("Enter second number");
+            //     b = Convert.ToInt32(Console.ReadLine());
+            //     c = a / b;
+            //     Console.WriteLine("Result:" + c);
 
-           // }
+            // }
 
-           // // try alway one but we can used it multiple catch block
-           // catch (DivideByZeroException ex)
-           // {
-           //     Console.WriteLine("Error: Cannot divide by zero."+ex.Message.ToString());
-           // }
-           // catch (FormatException ex)
-           // {
-           //     Console.WriteLine("Error: Invalid input format."+ex.Message.ToString());
-           // }
+            // // try alway one but we can used it multiple catch block
+            // catch (DivideByZeroException ex)
+            // {
+            //     Console.WriteLine("Error: Cannot divide by zero."+ex.Message.ToString());
+            // }
+            // catch (FormatException ex)
+            // {
+            //     Console.WriteLine("Error: Invalid input format."+ex.Message.ToString());
+            // }
 
-           // catch (Exception ex) { 
-            
-           // Console.WriteLine("Error:"+ex.Message.ToString());
+            // catch (Exception ex) { 
 
-           // }
-           // // finaly always execute
-           //finally
-           // {
-           //     Console.WriteLine("Execution completed.");
-           // }
+            // Console.WriteLine("Error:"+ex.Message.ToString());
+
+            // }
+            // // finaly always execute
+            //finally
+            // {
+            //     Console.WriteLine("Execution completed.");
+            // }
 
 
             // file handling call
-            FileHandling fileHandling = new FileHandling();
-            fileHandling.createfile();
-            fileHandling.AddFileContent();
-            fileHandling.appendfiletext();
-            fileHandling.ReadFile();
+            //FileHandling fileHandling = new FileHandling();
+            //fileHandling.createfile();
+            //fileHandling.AddFileContent();
+            //fileHandling.appendfiletext();
+            //fileHandling.ReadFile();
 
+            // Collections Example Call
 
+            CollectionExample collectionsExample = new  CollectionExample();
+            collectionsExample.arraylistexample();
+            collectionsExample.hashtableexample();
+            collectionsExample.shortlistexample();
+            collectionsExample.stackexample();
+            collectionsExample.Queuexample();
+            collectionsExample.Queuexample();
 
 
 

@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|solutionrelative:projectpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\filehandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|solutionrelative:projectpractice\\filehandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\collectionexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|solutionrelative:projectpractice\\collectionexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\projectpractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|solutionrelative:projectpractice\\projectpractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\filehandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|solutionrelative:projectpractice\\filehandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB05064D-1BED-0364-0568-2910B39DB0DE}|projectpractice\\projectpractice.csproj|d:\\.net fullstack course\\c# latest\\csharp_latest\\projectpractice\\projectpractice\\overridingimplemetationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -122,20 +126,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CollectionExample.cs",
+              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\CollectionExample.cs",
+              "RelativeDocumentMoniker": "projectpractice\\CollectionExample.cs",
+              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\CollectionExample.cs",
+              "RelativeToolTip": "projectpractice\\CollectionExample.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwEwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T15:46:56.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FileHandling.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\FileHandling.cs",
               "RelativeDocumentMoniker": "projectpractice\\FileHandling.cs",
               "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\FileHandling.cs",
               "RelativeToolTip": "projectpractice\\FileHandling.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAADwvy0AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-04T16:12:34.122Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OverridingExample.cs",
+              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\OverridingExample.cs",
+              "RelativeDocumentMoniker": "projectpractice\\OverridingExample.cs",
+              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\OverridingExample.cs",
+              "RelativeToolTip": "projectpractice\\OverridingExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T17:07:07.566Z"
             },
             {
               "$type": "Document",
@@ -145,26 +174,14 @@
               "RelativeDocumentMoniker": "projectpractice\\Program.cs",
               "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Program.cs",
               "RelativeToolTip": "projectpractice\\Program.cs",
-              "ViewState": "AgIAAMAAAAAAAAAAAAAAAMkAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAANMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T16:34:43.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TriangaleClass.cs",
-              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\TriangaleClass.cs",
-              "RelativeDocumentMoniker": "projectpractice\\TriangaleClass.cs",
-              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\TriangaleClass.cs",
-              "RelativeToolTip": "projectpractice\\TriangaleClass.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T17:45:54.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Overridingimplemetationclass.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Overridingimplemetationclass.cs",
               "RelativeDocumentMoniker": "projectpractice\\Overridingimplemetationclass.cs",
@@ -173,18 +190,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-02T17:08:32.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OverridingExample.cs",
-              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\OverridingExample.cs",
-              "RelativeDocumentMoniker": "projectpractice\\OverridingExample.cs",
-              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\OverridingExample.cs",
-              "RelativeToolTip": "projectpractice\\OverridingExample.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T17:07:07.566Z"
             },
             {
               "$type": "Document",
@@ -202,6 +207,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "TriangaleClass.cs",
+              "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\TriangaleClass.cs",
+              "RelativeDocumentMoniker": "projectpractice\\TriangaleClass.cs",
+              "ToolTip": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\TriangaleClass.cs",
+              "RelativeToolTip": "projectpractice\\TriangaleClass.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:45:54.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Sudentinfo.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Sudentinfo.cs",
               "RelativeDocumentMoniker": "projectpractice\\Sudentinfo.cs",
@@ -213,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Studentclass.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Studentclass.cs",
               "RelativeDocumentMoniker": "projectpractice\\Studentclass.cs",
@@ -225,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "StaticMethod.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\StaticMethod.cs",
               "RelativeDocumentMoniker": "projectpractice\\StaticMethod.cs",
@@ -237,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Rectangle.cs",
               "RelativeDocumentMoniker": "projectpractice\\Rectangle.cs",
@@ -249,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "EmployeeClassInhertience.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\EmployeeClassInhertience.cs",
               "RelativeDocumentMoniker": "projectpractice\\EmployeeClassInhertience.cs",
@@ -261,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ConstructorClass.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\ConstructorClass.cs",
               "RelativeDocumentMoniker": "projectpractice\\ConstructorClass.cs",
@@ -273,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "GetterSetter.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\GetterSetter.cs",
               "RelativeDocumentMoniker": "projectpractice\\GetterSetter.cs",
@@ -285,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "InhertienceExample.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\InhertienceExample.cs",
               "RelativeDocumentMoniker": "projectpractice\\InhertienceExample.cs",
@@ -297,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "InhertitenceChidlClass.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\InhertitenceChidlClass.cs",
               "RelativeDocumentMoniker": "projectpractice\\InhertitenceChidlClass.cs",
@@ -309,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "InstanceExample.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\InstanceExample.cs",
               "RelativeDocumentMoniker": "projectpractice\\InstanceExample.cs",
@@ -321,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "InterfaecExample.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\InterfaecExample.cs",
               "RelativeDocumentMoniker": "projectpractice\\InterfaecExample.cs",
@@ -333,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "InterfaecImplementClass.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\InterfaecImplementClass.cs",
               "RelativeDocumentMoniker": "projectpractice\\InterfaecImplementClass.cs",
@@ -345,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ManagerClassInhertence.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\ManagerClassInhertence.cs",
               "RelativeDocumentMoniker": "projectpractice\\ManagerClassInhertence.cs",
@@ -357,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "OverloadingExample.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\OverloadingExample.cs",
               "RelativeDocumentMoniker": "projectpractice\\OverloadingExample.cs",
@@ -369,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\practiceproject2\\Program.cs",
               "RelativeDocumentMoniker": "practiceproject2\\Program.cs",
@@ -381,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "InterfaceExample2.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\InterfaceExample2.cs",
               "RelativeDocumentMoniker": "projectpractice\\InterfaceExample2.cs",
@@ -393,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "AdminClassInhertience.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\AdminClassInhertience.cs",
               "RelativeDocumentMoniker": "projectpractice\\AdminClassInhertience.cs",
@@ -405,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "AbstractClassExample.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\AbstractClassExample.cs",
               "RelativeDocumentMoniker": "projectpractice\\AbstractClassExample.cs",
@@ -417,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "AbstractChaildlArea.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\AbstractChaildlArea.cs",
               "RelativeDocumentMoniker": "projectpractice\\AbstractChaildlArea.cs",
@@ -429,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "AccessSpecifer.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\AccessSpecifer.cs",
               "RelativeDocumentMoniker": "projectpractice\\AccessSpecifer.cs",
@@ -441,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "practiceproject2.csproj",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\practiceproject2\\practiceproject2.csproj",
               "RelativeDocumentMoniker": "practiceproject2\\practiceproject2.csproj",
@@ -454,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Circle.cs",
               "DocumentMoniker": "D:\\.net fullstack course\\C# latest\\CSharp_Latest\\projectpractice\\projectpractice\\Circle.cs",
               "RelativeDocumentMoniker": "projectpractice\\Circle.cs",
