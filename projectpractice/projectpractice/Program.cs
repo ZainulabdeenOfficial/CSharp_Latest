@@ -1,9 +1,27 @@
 ﻿using System;
+using static projectpractice.DelegateExample;
 
 namespace projectpractice
 {
+
     class Program
     {
+        public void TestEvent()
+        {
+            EventExamplecs eventExamplecs = new EventExamplecs();
+          eventExamplecs.eventHandler += My_eventHandler;
+           eventExamplecs.eventHandler -= My_eventHandler;
+        }
+
+        private void My_eventHandler()
+        {
+            Console.WriteLine("Event Handled");
+        }
+
+
+
+
+
         // 'out' is used to pass a variable to a method
         // so the method can assign a value to it
         // and send that value back to the caller
@@ -203,13 +221,25 @@ namespace projectpractice
 
             // Collections Example Call
 
-            CollectionExample collectionsExample = new  CollectionExample();
-            collectionsExample.arraylistexample();
-            collectionsExample.hashtableexample();
-            collectionsExample.shortlistexample();
-            collectionsExample.stackexample();
-            collectionsExample.Queuexample();
-            collectionsExample.Queuexample();
+            //CollectionExample collectionsExample = new  CollectionExample();
+            //collectionsExample.arraylistexample();
+            //collectionsExample.hashtableexample();
+            //collectionsExample.shortlistexample();
+            //collectionsExample.stackexample();
+            //collectionsExample.Queuexample();
+            //collectionsExample.Queuexample();
+
+
+            // Delegate Example Call
+            // delegate is used when not need not create object again and again for method 
+            // access method through intermadiate delagate
+            DelegateExample delegateExample = new DelegateExample();
+            helloDelegate he = new helloDelegate(delegateExample.hello);
+            he();
+
+
+            Program pro = new Program();
+            pro.TestEvent();
 
 
 
